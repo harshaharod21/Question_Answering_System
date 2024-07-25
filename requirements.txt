@@ -1,0 +1,13 @@
+nltk
+langchain-text-splitters
+pypdf
+langchain_community
+sentence-transformers
+pandas
+umap-learn
+langchain_groq
+pymilvus
+langchain_milvus
+rank_bm25
+pymilvus[model]
+python-dotenv
