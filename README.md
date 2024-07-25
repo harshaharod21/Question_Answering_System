@@ -42,7 +42,7 @@ Before running the project, ensure you have the following prerequisites installe
 This component loads data from PDF files. It reads the content of the PDFs and splits them into manageable chunks for further processing.
 
 **Link to Books PDF to download:**
-- [Book 1](link-to-pdf-1)
+- [Book 1]Kafka on the Shore - Haruki Murakami [Worldfreebooks.com].pdf
 - [Book 2](link-to-pdf-2)
 - [Book 3](link-to-pdf-3)
 
