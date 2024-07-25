@@ -44,7 +44,7 @@ This component loads data from PDF files. It reads the content of the PDFs and s
 **Link to Books PDF to download:**
 - [Book 1] Kafka on the Shore - Haruki Murakami [Worldfreebooks.com].pdf
 - [Book 2] The Invisible Life of Addie LaRue By V E Schwab.pdf
-- [Book 3] (link-to-pdf-3)
+- [Book 3] Project Mary Hail.pdf
 
 ### 2. Text Preprocessing and Creating Vector Embedding
 This component preprocesses the ingested text data and creates vector embeddings. It involves tasks such as tokenization, removing stop words, and generating embeddings using models like SentenceTransformers.
