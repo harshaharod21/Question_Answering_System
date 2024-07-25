@@ -75,11 +75,18 @@ Objective: To create a hybrid search that combines sparse retrievers with dense 
 This component uses a Language Model (LLM) to generate answers to user queries based on the context provided by the retrieved documents. It involves constructing prompts and invoking the LLM to generate accurate and relevant responses.
 
 ## Running the Pipeline
-First run the setup.py pipline
+
+First install all the required libraries
+```sh
+pip install -r requirements.txt
+```
+
+Then run the setup.py pipline
 ```sh
 python setup.py
-
+```
 To run all the components in order, execute the `pipeline.py` script:
 ```sh
 python pipeline.py
+````
 
