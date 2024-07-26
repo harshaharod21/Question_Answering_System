@@ -90,3 +90,4 @@ To run all the components in order, execute the `pipeline.py` script:
 python pipeline.py
 ````
 
+**Note:** experiment.ipynb is made for experiments before implementing the code in modular coding
