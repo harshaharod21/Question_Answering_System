@@ -52,7 +52,7 @@ def Reranking_algo(ensemble_retriever):
     
     """
 
-    query="What is catterpillar?"
+    query="What is Kafka?"
 
     doc_rel= ensemble_retriever.get_relevant_documents(query)
 
